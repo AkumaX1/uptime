@@ -70,7 +70,7 @@
     "timeMonth": 111,
     "timeYear": 111,
     "dailyMinutesDown": {
-      "2021-12-08": 74
+      "2021-12-08": 99
     }
   },
   {
@@ -115,18 +115,18 @@
     "icon": "https://favicons.githubusercontent.com/zooqle.com",
     "slug": "zooqle",
     "status": "down",
-    "uptime": "0.05%",
-    "uptimeDay": "0.05%",
-    "uptimeWeek": "0.05%",
-    "uptimeMonth": "0.05%",
-    "uptimeYear": "0.05%",
+    "uptime": "0.03%",
+    "uptimeDay": "0.03%",
+    "uptimeWeek": "0.03%",
+    "uptimeMonth": "0.03%",
+    "uptimeYear": "0.03%",
     "time": 122,
     "timeDay": 122,
     "timeWeek": 122,
     "timeMonth": 122,
     "timeYear": 122,
     "dailyMinutesDown": {
-      "2021-12-08": 74
+      "2021-12-08": 98
     }
   },
   {
@@ -170,18 +170,20 @@
     "url": "https://anidex.info/",
     "icon": "https://favicons.githubusercontent.com/anidex.info",
     "slug": "anidex",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 957,
-    "timeDay": 957,
-    "timeWeek": 957,
-    "timeMonth": 957,
-    "timeYear": 957,
-    "dailyMinutesDown": {}
+    "status": "down",
+    "uptime": "99.32%",
+    "uptimeDay": "99.32%",
+    "uptimeWeek": "99.32%",
+    "uptimeMonth": "99.32%",
+    "uptimeYear": "99.32%",
+    "time": 898,
+    "timeDay": 898,
+    "timeWeek": 898,
+    "timeMonth": 898,
+    "timeYear": 898,
+    "dailyMinutesDown": {
+      "2021-12-08": 1
+    }
   },
   {
     "name": "Fitgirl Repack",
@@ -206,18 +208,20 @@
     "url": "https://libgen.fun/",
     "icon": "https://favicons.githubusercontent.com/libgen.fun",
     "slug": "libgen",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.85%",
+    "uptimeDay": "99.85%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.85%",
+    "uptimeYear": "99.85%",
     "time": 216,
     "timeDay": 216,
     "timeWeek": 216,
     "timeMonth": 216,
     "timeYear": 216,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-12-08": 0
+    }
   },
   {
     "name": "knaben",
