@@ -59,18 +59,18 @@
     "icon": "https://favicons.githubusercontent.com/1337x.gd",
     "slug": "1337x-official-domain-4",
     "status": "down",
-    "uptime": "0.02%",
-    "uptimeDay": "0.02%",
-    "uptimeWeek": "0.02%",
-    "uptimeMonth": "0.02%",
-    "uptimeYear": "0.02%",
+    "uptime": "0.01%",
+    "uptimeDay": "0.01%",
+    "uptimeWeek": "0.01%",
+    "uptimeMonth": "0.01%",
+    "uptimeYear": "0.01%",
     "time": 111,
     "timeDay": 111,
     "timeWeek": 111,
     "timeMonth": 111,
     "timeYear": 111,
     "dailyMinutesDown": {
-      "2021-12-08": 113
+      "2021-12-08": 215
     }
   },
   {
@@ -115,18 +115,18 @@
     "icon": "https://favicons.githubusercontent.com/zooqle.com",
     "slug": "zooqle",
     "status": "down",
-    "uptime": "0.03%",
-    "uptimeDay": "0.03%",
-    "uptimeWeek": "0.03%",
-    "uptimeMonth": "0.03%",
-    "uptimeYear": "0.03%",
+    "uptime": "0.02%",
+    "uptimeDay": "0.02%",
+    "uptimeWeek": "0.02%",
+    "uptimeMonth": "0.02%",
+    "uptimeYear": "0.02%",
     "time": 122,
     "timeDay": 122,
     "timeWeek": 122,
     "timeMonth": 122,
     "timeYear": 122,
     "dailyMinutesDown": {
-      "2021-12-08": 113
+      "2021-12-08": 214
     }
   },
   {
@@ -171,19 +171,17 @@
     "icon": "https://favicons.githubusercontent.com/anidex.info",
     "slug": "anidex",
     "status": "up",
-    "uptime": "87.03%",
-    "uptimeDay": "87.03%",
-    "uptimeWeek": "87.03%",
-    "uptimeMonth": "87.03%",
-    "uptimeYear": "87.03%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 892,
     "timeDay": 892,
     "timeWeek": 892,
     "timeMonth": 892,
     "timeYear": 892,
-    "dailyMinutesDown": {
-      "2021-12-08": 15
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Fitgirl Repack",
@@ -208,19 +206,19 @@
     "url": "https://libgen.fun/",
     "icon": "https://favicons.githubusercontent.com/libgen.fun",
     "slug": "libgen",
-    "status": "up",
-    "uptime": "87.45%",
-    "uptimeDay": "87.45%",
-    "uptimeWeek": "87.45%",
-    "uptimeMonth": "87.45%",
-    "uptimeYear": "87.45%",
+    "status": "down",
+    "uptime": "99.93%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.93%",
     "time": 255,
     "timeDay": 255,
     "timeWeek": 255,
     "timeMonth": 255,
     "timeYear": 255,
     "dailyMinutesDown": {
-      "2021-12-08": 14
+      "2021-12-08": 0
     }
   },
   {
