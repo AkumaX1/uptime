@@ -59,18 +59,18 @@
     "icon": "https://favicons.githubusercontent.com/1337x.gd",
     "slug": "1337x-official-domain-4",
     "status": "down",
-    "uptime": "0.02%",
-    "uptimeDay": "0.02%",
-    "uptimeWeek": "0.02%",
-    "uptimeMonth": "0.02%",
-    "uptimeYear": "0.02%",
+    "uptime": "0.03%",
+    "uptimeDay": "0.03%",
+    "uptimeWeek": "0.03%",
+    "uptimeMonth": "0.03%",
+    "uptimeYear": "0.03%",
     "time": 126,
     "timeDay": 126,
     "timeWeek": 126,
     "timeMonth": 126,
     "timeYear": 126,
     "dailyMinutesDown": {
-      "2021-12-08": 52
+      "2021-12-08": 59
     }
   },
   {
@@ -115,18 +115,18 @@
     "icon": "https://favicons.githubusercontent.com/zooqle.com",
     "slug": "zooqle",
     "status": "down",
-    "uptime": "0.07%",
-    "uptimeDay": "0.07%",
-    "uptimeWeek": "0.07%",
-    "uptimeMonth": "0.07%",
-    "uptimeYear": "0.07%",
+    "uptime": "0.06%",
+    "uptimeDay": "0.06%",
+    "uptimeWeek": "0.06%",
+    "uptimeMonth": "0.06%",
+    "uptimeYear": "0.06%",
     "time": 131,
     "timeDay": 131,
     "timeWeek": 131,
     "timeMonth": 131,
     "timeYear": 131,
     "dailyMinutesDown": {
-      "2021-12-08": 52
+      "2021-12-08": 58
     }
   },
   {
@@ -207,18 +207,18 @@
     "icon": "https://favicons.githubusercontent.com/libgen.fun",
     "slug": "libgen",
     "status": "down",
-    "uptime": "98.69%",
-    "uptimeDay": "98.69%",
-    "uptimeWeek": "98.69%",
-    "uptimeMonth": "98.69%",
-    "uptimeYear": "98.69%",
+    "uptime": "88.09%",
+    "uptimeDay": "88.09%",
+    "uptimeWeek": "88.09%",
+    "uptimeMonth": "88.09%",
+    "uptimeYear": "88.09%",
     "time": 215,
     "timeDay": 215,
     "timeWeek": 215,
     "timeMonth": 215,
     "timeYear": 215,
     "dailyMinutesDown": {
-      "2021-12-08": 1
+      "2021-12-08": 7
     }
   },
   {
@@ -245,18 +245,18 @@
     "icon": "https://favicons.githubusercontent.com/audiobookbay.nl",
     "slug": "audiobookbay",
     "status": "down",
-    "uptime": "0.95%",
-    "uptimeDay": "0.95%",
-    "uptimeWeek": "0.95%",
-    "uptimeMonth": "0.95%",
-    "uptimeYear": "0.95%",
+    "uptime": "0.84%",
+    "uptimeDay": "0.84%",
+    "uptimeWeek": "0.84%",
+    "uptimeMonth": "0.84%",
+    "uptimeYear": "0.84%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-12-08": 52
+      "2021-12-08": 58
     }
   },
   {
@@ -300,18 +300,20 @@
     "url": "https://invidious.kavin.rocks/",
     "icon": "https://favicons.githubusercontent.com/invidious.kavin.rocks",
     "slug": "invidious",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1083,
-    "timeDay": 1083,
-    "timeWeek": 1083,
-    "timeMonth": 1083,
-    "timeYear": 1083,
-    "dailyMinutesDown": {}
+    "status": "down",
+    "uptime": "99.83%",
+    "uptimeDay": "99.83%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.83%",
+    "uptimeYear": "99.83%",
+    "time": 977,
+    "timeDay": 977,
+    "timeWeek": 977,
+    "timeMonth": 977,
+    "timeYear": 977,
+    "dailyMinutesDown": {
+      "2021-12-08": 0
+    }
   },
   {
     "name": "cock.li",
