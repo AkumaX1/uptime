@@ -59,18 +59,18 @@
     "icon": "https://favicons.githubusercontent.com/1337x.gd",
     "slug": "1337x-official-domain-4",
     "status": "down",
-    "uptime": "0.03%",
-    "uptimeDay": "0.03%",
-    "uptimeWeek": "0.03%",
-    "uptimeMonth": "0.03%",
-    "uptimeYear": "0.03%",
+    "uptime": "0.02%",
+    "uptimeDay": "0.02%",
+    "uptimeWeek": "0.02%",
+    "uptimeMonth": "0.02%",
+    "uptimeYear": "0.02%",
     "time": 126,
     "timeDay": 126,
     "timeWeek": 126,
     "timeMonth": 126,
     "timeYear": 126,
     "dailyMinutesDown": {
-      "2021-12-08": 59
+      "2021-12-08": 65
     }
   },
   {
@@ -115,18 +115,18 @@
     "icon": "https://favicons.githubusercontent.com/zooqle.com",
     "slug": "zooqle",
     "status": "down",
-    "uptime": "0.06%",
-    "uptimeDay": "0.06%",
-    "uptimeWeek": "0.06%",
-    "uptimeMonth": "0.06%",
-    "uptimeYear": "0.06%",
+    "uptime": "0.04%",
+    "uptimeDay": "0.04%",
+    "uptimeWeek": "0.04%",
+    "uptimeMonth": "0.04%",
+    "uptimeYear": "0.04%",
     "time": 131,
     "timeDay": 131,
     "timeWeek": 131,
     "timeMonth": 131,
     "timeYear": 131,
     "dailyMinutesDown": {
-      "2021-12-08": 58
+      "2021-12-08": 65
     }
   },
   {
@@ -206,19 +206,19 @@
     "url": "https://libgen.fun/",
     "icon": "https://favicons.githubusercontent.com/libgen.fun",
     "slug": "libgen",
-    "status": "down",
-    "uptime": "88.09%",
-    "uptimeDay": "88.09%",
-    "uptimeWeek": "88.09%",
-    "uptimeMonth": "88.09%",
-    "uptimeYear": "88.09%",
-    "time": 215,
-    "timeDay": 215,
-    "timeWeek": 215,
-    "timeMonth": 215,
-    "timeYear": 215,
+    "status": "up",
+    "uptime": "81.95%",
+    "uptimeDay": "81.95%",
+    "uptimeWeek": "81.95%",
+    "uptimeMonth": "81.95%",
+    "uptimeYear": "81.95%",
+    "time": 237,
+    "timeDay": 237,
+    "timeWeek": 237,
+    "timeMonth": 237,
+    "timeYear": 237,
     "dailyMinutesDown": {
-      "2021-12-08": 7
+      "2021-12-08": 12
     }
   },
   {
@@ -226,18 +226,20 @@
     "url": "https://1lib.in/",
     "icon": "https://favicons.githubusercontent.com/1lib.in",
     "slug": "1lib",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "98.81%",
+    "uptimeDay": "98.81%",
+    "uptimeWeek": "98.81%",
+    "uptimeMonth": "98.81%",
+    "uptimeYear": "98.81%",
     "time": 5220,
     "timeDay": 5220,
     "timeWeek": 5220,
     "timeMonth": 5220,
     "timeYear": 5220,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-12-08": 1
+    }
   },
   {
     "name": "Audiobookbay",
@@ -245,18 +247,18 @@
     "icon": "https://favicons.githubusercontent.com/audiobookbay.nl",
     "slug": "audiobookbay",
     "status": "down",
-    "uptime": "0.84%",
-    "uptimeDay": "0.84%",
-    "uptimeWeek": "0.84%",
-    "uptimeMonth": "0.84%",
-    "uptimeYear": "0.84%",
+    "uptime": "0.76%",
+    "uptimeDay": "0.76%",
+    "uptimeWeek": "0.76%",
+    "uptimeMonth": "0.76%",
+    "uptimeYear": "0.76%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-12-08": 58
+      "2021-12-08": 64
     }
   },
   {
@@ -300,19 +302,19 @@
     "url": "https://invidious.kavin.rocks/",
     "icon": "https://favicons.githubusercontent.com/invidious.kavin.rocks",
     "slug": "invidious",
-    "status": "down",
-    "uptime": "99.83%",
-    "uptimeDay": "99.83%",
-    "uptimeWeek": "99.83%",
-    "uptimeMonth": "99.83%",
-    "uptimeYear": "99.83%",
-    "time": 977,
-    "timeDay": 977,
-    "timeWeek": 977,
-    "timeMonth": 977,
-    "timeYear": 977,
+    "status": "up",
+    "uptime": "94.58%",
+    "uptimeDay": "94.58%",
+    "uptimeWeek": "94.58%",
+    "uptimeMonth": "94.58%",
+    "uptimeYear": "94.58%",
+    "time": 951,
+    "timeDay": 951,
+    "timeWeek": 951,
+    "timeMonth": 951,
+    "timeYear": 951,
     "dailyMinutesDown": {
-      "2021-12-08": 0
+      "2021-12-08": 6
     }
   },
   {
