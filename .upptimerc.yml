@@ -45,7 +45,7 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   
   baseUrl: /uptime
-  logoUrl: https://www.pngfind.com/pngs/m/601-6019602_aesthetic-aesthetictumblr-sad-animefreetoedit-aesthetic-sad-anime-girl.png
+  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
   introMessage: Maybe life is random, but I doubt it.
