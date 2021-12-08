@@ -5,8 +5,34 @@ repo: uptime # The name of this repository
 sites:
   - name: 1337x
     url: https://www.1377x.to/
-  - name: unblockit
-    url: https://unblockit.tv/
+  - name: 1337x official domain 2
+    url: https://1337xto.to/
+  - name: 1337x official domain 3
+    url: https://www.1337xx.to/
+  - name: 1337x official domain 4
+    url: https://1337x.gd/
+  - name: Rarbg
+    url: https://rarbgprx.org/
+  - name: torrentproxygalaxy
+    url: https://proxygalaxy.pw/
+  - name: zooqle
+    url: https://zooqle.com/
+  - name: nyaa
+    url: https://nyaa.si/
+  - name: tokyotosho
+    url: https://www.tokyotosho.info/
+  - name: Anidex
+    url: https://anidex.info/
+  - name: Fitgirl Repack
+    url: https://fitgirl-repacks.site/
+  - name: Libgen
+    url: https://libgen.fun/
+  - name: 1lib
+    url: https://1lib.in/
+  - name: Audiobookbay
+    url: http://audiobookbay.nl/
+  - name: knaben
+    url: https://knaben.info/
   - name : kaffeine
     url: https://kaffeine.herokuapp.com/
   - name: invidious
