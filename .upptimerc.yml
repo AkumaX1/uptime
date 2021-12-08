@@ -48,7 +48,7 @@ status-website:
   logoUrl: https://www.pngfind.com/pngs/m/601-6019602_aesthetic-aesthetictumblr-sad-animefreetoedit-aesthetic-sad-anime-girl.png
   name: Upptime
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  # introMessage: 
+  introMessage: Maybe life is random, but I doubt it.
   navbar:
     - title: Status
       href: /
