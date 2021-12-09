@@ -3,20 +3,22 @@ owner: AkumaX1 # Your GitHub organization or username, where this repository liv
 repo: uptime # The name of this repository
 
 sites:
+  - name: Prism break / Opt out of global data surveillance
+    url: https://prism-break.org/en/
   - name: 1337x
     url: https://www.1377x.to/
   - name: 1337x official domain 2
     url: https://1337xto.to/
   - name: 1337x official domain 3
     url: https://www.1337xx.to/
-  - name: 1337x official domain 4
-    url: https://1337x.gd/
+  - name: Thepiratebay official
+    url: https://thepiratebay.org/
   - name: Rarbg
     url: https://rarbgprx.org/
   - name: torrentproxygalaxy
     url: https://proxygalaxy.pw/
-  - name: zooqle
-    url: https://zooqle.com/
+  - name: Rutracker 
+    url: https://rutracker.org/forum/index.php
   - name: nyaa
     url: https://nyaa.si/
   - name: tokyotosho
@@ -25,6 +27,12 @@ sites:
     url: https://anidex.info/
   - name: Fitgirl Repack
     url: https://fitgirl-repacks.site/
+  - name: gnarly repacks
+    url: https://www.gnarly-repacks.site/
+  - name: dodi repacks
+    url: https://dodi-repacks.site/
+  - name: Mobilism
+    url: https://forum.mobilism.org/index.php
   - name: Libgen
     url: https://libgen.fun/
   - name: knaben
@@ -35,16 +43,22 @@ sites:
     url: https://invidious.kavin.rocks/
   - name: cock.li
     url: https://cock.li/
+  - name: Riseup
+    url: https://riseup.net/en
+  - name: Disroot
+    url: https://disroot.org/en
+  - name: Autistici
+    url: https://www.autistici.org/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   
   baseUrl: /uptime
-  logoUrl: https://www.pngfind.com/pngs/m/601-6019602_aesthetic-aesthetictumblr-sad-animefreetoedit-aesthetic-sad-anime-girl.png
+  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: Maybe life is random, but I doubt it.
+  introMessage: USE ADBLOCK.
   navbar:
     - title: Status
       href: /
