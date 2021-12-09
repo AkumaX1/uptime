@@ -15,13 +15,13 @@ sites:
     url: https://thepiratebay.org/
   - name: Rarbg
     url: https://rarbgprx.org/
-  - name: torrentproxygalaxy
+  - name: Proxygalaxy
     url: https://proxygalaxy.pw/
   - name: Rutracker 
     url: https://rutracker.org/forum/index.php
   - name: nyaa
     url: https://nyaa.si/
-  - name: tokyotosho
+  - name: Tokyotosho
     url: https://www.tokyotosho.info/
   - name: Anidex
     url: https://anidex.info/
@@ -29,8 +29,6 @@ sites:
     url: https://fitgirl-repacks.site/
   - name: gnarly repacks
     url: https://www.gnarly-repacks.site/
-  - name: dodi repacks
-    url: https://dodi-repacks.site/
   - name: Mobilism
     url: https://forum.mobilism.org/index.php
   - name: Libgen
@@ -39,7 +37,7 @@ sites:
     url: https://knaben.info/
   - name : kaffeine
     url: https://kaffeine.herokuapp.com/
-  - name: invidious
+  - name: Invidious
     url: https://invidious.kavin.rocks/
   - name: cock.li
     url: https://cock.li/
@@ -58,7 +56,7 @@ status-website:
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: USE ADBLOCK.
+  # introMessage: 
   navbar:
     - title: Status
       href: /
