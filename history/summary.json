@@ -12,7 +12,7 @@
     "uptimeYear": "99.94%",
     "time": 555,
     "timeDay": 351,
-    "timeWeek": 569,
+    "timeWeek": 515,
     "timeMonth": 555,
     "timeYear": 555,
     "dailyMinutesDown": {
@@ -32,7 +32,7 @@
     "uptimeYear": "99.79%",
     "time": 376,
     "timeDay": 1020,
-    "timeWeek": 702,
+    "timeWeek": 779,
     "timeMonth": 376,
     "timeYear": 376,
     "dailyMinutesDown": {
@@ -53,7 +53,7 @@
     "uptimeYear": "100.00%",
     "time": 193,
     "timeDay": 153,
-    "timeWeek": 181,
+    "timeWeek": 180,
     "timeMonth": 193,
     "timeYear": 193,
     "dailyMinutesDown": {}
@@ -71,7 +71,7 @@
     "uptimeYear": "99.88%",
     "time": 303,
     "timeDay": 347,
-    "timeWeek": 327,
+    "timeWeek": 336,
     "timeMonth": 303,
     "timeYear": 303,
     "dailyMinutesDown": {
@@ -84,18 +84,18 @@
     "icon": "https://favicons.githubusercontent.com/thepiratebay.org",
     "slug": "thepiratebay-official",
     "status": "up",
-    "uptime": "84.34%",
+    "uptime": "84.32%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "57.81%",
-    "uptimeMonth": "84.34%",
-    "uptimeYear": "84.34%",
+    "uptimeWeek": "57.75%",
+    "uptimeMonth": "84.32%",
+    "uptimeYear": "84.32%",
     "time": 1125,
     "timeDay": 1408,
-    "timeWeek": 1133,
+    "timeWeek": 1149,
     "timeMonth": 1125,
     "timeYear": 1125,
     "dailyMinutesDown": {
-      "2021-12-27": 1392,
+      "2021-12-27": 1398,
       "2021-12-26": 1440,
       "2021-12-25": 1421
     }
@@ -113,7 +113,7 @@
     "uptimeYear": "100.00%",
     "time": 843,
     "timeDay": 666,
-    "timeWeek": 837,
+    "timeWeek": 812,
     "timeMonth": 843,
     "timeYear": 843,
     "dailyMinutesDown": {}
@@ -131,7 +131,7 @@
     "uptimeYear": "100.00%",
     "time": 717,
     "timeDay": 563,
-    "timeWeek": 763,
+    "timeWeek": 746,
     "timeMonth": 717,
     "timeYear": 717,
     "dailyMinutesDown": {}
@@ -149,7 +149,7 @@
     "uptimeYear": "100.00%",
     "time": 993,
     "timeDay": 1204,
-    "timeWeek": 1123,
+    "timeWeek": 1116,
     "timeMonth": 993,
     "timeYear": 993,
     "dailyMinutesDown": {}
@@ -167,7 +167,7 @@
     "uptimeYear": "100.00%",
     "time": 639,
     "timeDay": 453,
-    "timeWeek": 584,
+    "timeWeek": 562,
     "timeMonth": 639,
     "timeYear": 639,
     "dailyMinutesDown": {}
@@ -185,7 +185,7 @@
     "uptimeYear": "100.00%",
     "time": 630,
     "timeDay": 424,
-    "timeWeek": 646,
+    "timeWeek": 623,
     "timeMonth": 630,
     "timeYear": 630,
     "dailyMinutesDown": {}
@@ -203,7 +203,7 @@
     "uptimeYear": "94.27%",
     "time": 838,
     "timeDay": 815,
-    "timeWeek": 878,
+    "timeWeek": 875,
     "timeMonth": 838,
     "timeYear": 838,
     "dailyMinutesDown": {
@@ -241,7 +241,7 @@
     "uptimeYear": "97.02%",
     "time": 992,
     "timeDay": 652,
-    "timeWeek": 950,
+    "timeWeek": 938,
     "timeMonth": 992,
     "timeYear": 992,
     "dailyMinutesDown": {
@@ -263,7 +263,7 @@
     "uptimeYear": "100.00%",
     "time": 607,
     "timeDay": 450,
-    "timeWeek": 606,
+    "timeWeek": 590,
     "timeMonth": 607,
     "timeYear": 607,
     "dailyMinutesDown": {}
@@ -281,7 +281,7 @@
     "uptimeYear": "100.00%",
     "time": 877,
     "timeDay": 818,
-    "timeWeek": 870,
+    "timeWeek": 844,
     "timeMonth": 877,
     "timeYear": 877,
     "dailyMinutesDown": {}
@@ -291,15 +291,15 @@
     "url": "https://libgen.fun/",
     "icon": "https://favicons.githubusercontent.com/libgen.fun",
     "slug": "libgen",
-    "status": "up",
+    "status": "down",
     "uptime": "91.54%",
-    "uptimeDay": "92.31%",
+    "uptimeDay": "92.29%",
     "uptimeWeek": "96.09%",
     "uptimeMonth": "91.54%",
     "uptimeYear": "91.54%",
     "time": 245,
     "timeDay": 246,
-    "timeWeek": 256,
+    "timeWeek": 255,
     "timeMonth": 245,
     "timeYear": 245,
     "dailyMinutesDown": {
@@ -336,7 +336,7 @@
     "uptimeYear": "100.00%",
     "time": 500,
     "timeDay": 349,
-    "timeWeek": 437,
+    "timeWeek": 419,
     "timeMonth": 500,
     "timeYear": 500,
     "dailyMinutesDown": {}
@@ -354,7 +354,7 @@
     "uptimeYear": "100.00%",
     "time": 184,
     "timeDay": 65,
-    "timeWeek": 189,
+    "timeWeek": 176,
     "timeMonth": 184,
     "timeYear": 184,
     "dailyMinutesDown": {}
@@ -372,7 +372,7 @@
     "uptimeYear": "98.31%",
     "time": 3180,
     "timeDay": 631,
-    "timeWeek": 1558,
+    "timeWeek": 1543,
     "timeMonth": 3180,
     "timeYear": 3180,
     "dailyMinutesDown": {
@@ -406,7 +406,7 @@
     "uptimeYear": "99.94%",
     "time": 2269,
     "timeDay": 946,
-    "timeWeek": 2212,
+    "timeWeek": 1797,
     "timeMonth": 2269,
     "timeYear": 2269,
     "dailyMinutesDown": {
@@ -426,7 +426,7 @@
     "uptimeYear": "100.00%",
     "time": 448,
     "timeDay": 790,
-    "timeWeek": 445,
+    "timeWeek": 433,
     "timeMonth": 448,
     "timeYear": 448,
     "dailyMinutesDown": {}
@@ -444,7 +444,7 @@
     "uptimeYear": "99.94%",
     "time": 1599,
     "timeDay": 843,
-    "timeWeek": 2214,
+    "timeWeek": 2301,
     "timeMonth": 1599,
     "timeYear": 1599,
     "dailyMinutesDown": {
@@ -464,7 +464,7 @@
     "uptimeYear": "100.00%",
     "time": 865,
     "timeDay": 747,
-    "timeWeek": 876,
+    "timeWeek": 845,
     "timeMonth": 865,
     "timeYear": 865,
     "dailyMinutesDown": {}
