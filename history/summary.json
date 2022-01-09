@@ -13,7 +13,7 @@
     "time": 574,
     "timeDay": 567,
     "timeWeek": 693,
-    "timeMonth": 574,
+    "timeMonth": 561,
     "timeYear": 574,
     "dailyMinutesDown": {
       "2021-12-12": 17
@@ -33,7 +33,7 @@
     "time": 346,
     "timeDay": 149,
     "timeWeek": 183,
-    "timeMonth": 366,
+    "timeMonth": 369,
     "timeYear": 346,
     "dailyMinutesDown": {
       "2021-12-28": 18,
@@ -55,7 +55,7 @@
     "time": 196,
     "timeDay": 228,
     "timeWeek": 216,
-    "timeMonth": 192,
+    "timeMonth": 191,
     "timeYear": 196,
     "dailyMinutesDown": {}
   },
@@ -73,7 +73,7 @@
     "time": 312,
     "timeDay": 314,
     "timeWeek": 331,
-    "timeMonth": 325,
+    "timeMonth": 328,
     "timeYear": 312,
     "dailyMinutesDown": {
       "2021-12-13": 33
@@ -85,15 +85,15 @@
     "icon": "https://favicons.githubusercontent.com/thepiratebay.org",
     "slug": "thepiratebay-official",
     "status": "up",
-    "uptime": "53.46%",
-    "uptimeDay": "63.76%",
-    "uptimeWeek": "9.11%",
+    "uptime": "53.72%",
+    "uptimeDay": "81.44%",
+    "uptimeWeek": "11.63%",
     "uptimeMonth": "52.66%",
-    "uptimeYear": "53.46%",
+    "uptimeYear": "53.72%",
     "time": 1121,
     "timeDay": 1066,
     "timeWeek": 1154,
-    "timeMonth": 1121,
+    "timeMonth": 1123,
     "timeYear": 1121,
     "dailyMinutesDown": {
       "2022-01-08": 598,
@@ -127,7 +127,7 @@
     "time": 1069,
     "timeDay": 954,
     "timeWeek": 2003,
-    "timeMonth": 1093,
+    "timeMonth": 1092,
     "timeYear": 1069,
     "dailyMinutesDown": {
       "2022-01-06": 26
@@ -165,7 +165,7 @@
     "time": 1167,
     "timeDay": 1177,
     "timeWeek": 1926,
-    "timeMonth": 1167,
+    "timeMonth": 1186,
     "timeYear": 1167,
     "dailyMinutesDown": {}
   },
@@ -183,7 +183,7 @@
     "time": 623,
     "timeDay": 393,
     "timeWeek": 586,
-    "timeMonth": 605,
+    "timeMonth": 603,
     "timeYear": 623,
     "dailyMinutesDown": {}
   },
@@ -193,15 +193,15 @@
     "icon": "https://favicons.githubusercontent.com/www.tokyotosho.info",
     "slug": "tokyotosho",
     "status": "up",
-    "uptime": "98.91%",
+    "uptime": "98.92%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "95.12%",
     "uptimeMonth": "98.88%",
-    "uptimeYear": "98.91%",
+    "uptimeYear": "98.92%",
     "time": 626,
     "timeDay": 667,
     "timeWeek": 585,
-    "timeMonth": 616,
+    "timeMonth": 610,
     "timeYear": 626,
     "dailyMinutesDown": {
       "2022-01-05": 492
@@ -212,16 +212,16 @@
     "url": "https://anidex.info/",
     "icon": "https://favicons.githubusercontent.com/anidex.info",
     "slug": "anidex",
-    "status": "up",
-    "uptime": "93.86%",
-    "uptimeDay": "81.64%",
-    "uptimeWeek": "86.51%",
-    "uptimeMonth": "93.65%",
-    "uptimeYear": "93.86%",
+    "status": "down",
+    "uptime": "93.94%",
+    "uptimeDay": "82.99%",
+    "uptimeWeek": "86.83%",
+    "uptimeMonth": "93.70%",
+    "uptimeYear": "93.94%",
     "time": 789,
-    "timeDay": 510,
-    "timeWeek": 679,
-    "timeMonth": 786,
+    "timeDay": 511,
+    "timeWeek": 676,
+    "timeMonth": 784,
     "timeYear": 789,
     "dailyMinutesDown": {
       "2022-01-09": 56,
@@ -250,7 +250,7 @@
       "2021-12-16": 58,
       "2021-12-15": 54,
       "2021-12-14": 60,
-      "2021-12-13": 91
+      "2021-12-13": 70
     }
   },
   {
@@ -259,15 +259,15 @@
     "icon": "https://favicons.githubusercontent.com/fitgirl-repacks.site",
     "slug": "fitgirl-repack",
     "status": "up",
-    "uptime": "98.12%",
+    "uptime": "98.13%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.79%",
     "uptimeMonth": "98.05%",
-    "uptimeYear": "98.12%",
+    "uptimeYear": "98.13%",
     "time": 918,
     "timeDay": 783,
     "timeWeek": 685,
-    "timeMonth": 896,
+    "timeMonth": 888,
     "timeYear": 918,
     "dailyMinutesDown": {
       "2022-01-05": 21,
@@ -290,7 +290,7 @@
     "time": 606,
     "timeDay": 825,
     "timeWeek": 619,
-    "timeMonth": 606,
+    "timeMonth": 600,
     "timeYear": 606,
     "dailyMinutesDown": {}
   },
@@ -308,7 +308,7 @@
     "time": 915,
     "timeDay": 1057,
     "timeWeek": 1078,
-    "timeMonth": 915,
+    "timeMonth": 912,
     "timeYear": 915,
     "dailyMinutesDown": {}
   },
@@ -318,14 +318,14 @@
     "icon": "https://favicons.githubusercontent.com/libgen.fun",
     "slug": "libgen",
     "status": "up",
-    "uptime": "92.73%",
-    "uptimeDay": "94.53%",
-    "uptimeWeek": "94.66%",
-    "uptimeMonth": "92.57%",
-    "uptimeYear": "92.73%",
+    "uptime": "92.77%",
+    "uptimeDay": "96.47%",
+    "uptimeWeek": "95.15%",
+    "uptimeMonth": "92.61%",
+    "uptimeYear": "92.77%",
     "time": 270,
-    "timeDay": 309,
-    "timeWeek": 264,
+    "timeDay": 325,
+    "timeWeek": 266,
     "timeMonth": 270,
     "timeYear": 270,
     "dailyMinutesDown": {
@@ -375,7 +375,7 @@
     "time": 661,
     "timeDay": 458,
     "timeWeek": 1286,
-    "timeMonth": 672,
+    "timeMonth": 671,
     "timeYear": 661,
     "dailyMinutesDown": {}
   },
@@ -393,7 +393,7 @@
     "time": 185,
     "timeDay": 256,
     "timeWeek": 174,
-    "timeMonth": 180,
+    "timeMonth": 175,
     "timeYear": 185,
     "dailyMinutesDown": {}
   },
@@ -403,15 +403,15 @@
     "icon": "https://favicons.githubusercontent.com/invidious.kavin.rocks",
     "slug": "invidious",
     "status": "up",
-    "uptime": "94.56%",
-    "uptimeDay": "95.28%",
+    "uptime": "94.59%",
+    "uptimeDay": "97.59%",
     "uptimeWeek": "80.61%",
     "uptimeMonth": "94.36%",
-    "uptimeYear": "94.56%",
+    "uptimeYear": "94.59%",
     "time": 3136,
-    "timeDay": 2442,
+    "timeDay": 2814,
     "timeWeek": 3165,
-    "timeMonth": 3241,
+    "timeMonth": 3251,
     "timeYear": 3136,
     "dailyMinutesDown": {
       "2022-01-08": 68,
@@ -450,7 +450,7 @@
     "time": 2545,
     "timeDay": 4599,
     "timeWeek": 3433,
-    "timeMonth": 2668,
+    "timeMonth": 2695,
     "timeYear": 2545,
     "dailyMinutesDown": {
       "2021-12-10": 18
@@ -470,7 +470,7 @@
     "time": 485,
     "timeDay": 310,
     "timeWeek": 587,
-    "timeMonth": 485,
+    "timeMonth": 495,
     "timeYear": 485,
     "dailyMinutesDown": {}
   },
@@ -488,7 +488,7 @@
     "time": 1401,
     "timeDay": 1198,
     "timeWeek": 1053,
-    "timeMonth": 1401,
+    "timeMonth": 1406,
     "timeYear": 1401,
     "dailyMinutesDown": {
       "2021-12-23": 15
@@ -508,7 +508,7 @@
     "time": 881,
     "timeDay": 1009,
     "timeWeek": 863,
-    "timeMonth": 881,
+    "timeMonth": 873,
     "timeYear": 881,
     "dailyMinutesDown": {}
   }
