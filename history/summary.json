@@ -214,18 +214,18 @@
     "icon": "https://favicons.githubusercontent.com/anidex.info",
     "slug": "anidex",
     "status": "up",
-    "uptime": "95.29%",
-    "uptimeDay": "96.42%",
-    "uptimeWeek": "91.70%",
-    "uptimeMonth": "93.32%",
-    "uptimeYear": "95.29%",
+    "uptime": "95.27%",
+    "uptimeDay": "96.82%",
+    "uptimeWeek": "91.75%",
+    "uptimeMonth": "93.29%",
+    "uptimeYear": "95.27%",
     "time": 723,
-    "timeDay": 511,
+    "timeDay": 509,
     "timeWeek": 557,
     "timeMonth": 675,
     "timeYear": 723,
     "dailyMinutesDown": {
-      "2022-01-20": 52,
+      "2022-01-20": 46,
       "2022-01-19": 33,
       "2022-01-18": 165,
       "2022-01-17": 192,
@@ -243,7 +243,7 @@
       "2022-01-05": 105,
       "2022-01-04": 188,
       "2022-01-03": 109,
-      "2022-01-02": 125
+      "2022-01-02": 146
     }
   },
   {
@@ -310,18 +310,19 @@
     "url": "https://libgen.fun/",
     "icon": "https://favicons.githubusercontent.com/libgen.fun",
     "slug": "libgen",
-    "status": "up",
-    "uptime": "95.83%",
-    "uptimeDay": "97.59%",
-    "uptimeWeek": "92.99%",
-    "uptimeMonth": "94.08%",
-    "uptimeYear": "95.83%",
+    "status": "down",
+    "uptime": "95.85%",
+    "uptimeDay": "97.57%",
+    "uptimeWeek": "92.98%",
+    "uptimeMonth": "94.12%",
+    "uptimeYear": "95.85%",
     "time": 299,
     "timeDay": 315,
     "timeWeek": 406,
     "timeMonth": 321,
     "timeYear": 299,
     "dailyMinutesDown": {
+      "2022-01-20": 0,
       "2022-01-19": 150,
       "2022-01-18": 88,
       "2022-01-17": 149,
@@ -350,7 +351,7 @@
       "2021-12-24": 55,
       "2021-12-23": 49,
       "2021-12-22": 119,
-      "2021-12-21": 20
+      "2021-12-21": 3
     }
   },
   {
@@ -403,7 +404,7 @@
     "time": 3217,
     "timeDay": 1694,
     "timeWeek": 3775,
-    "timeMonth": 2733,
+    "timeMonth": 2746,
     "timeYear": 3217,
     "dailyMinutesDown": {
       "2022-01-18": 26,
@@ -439,7 +440,7 @@
     "slug": "cock-li",
     "status": "up",
     "uptime": "99.09%",
-    "uptimeDay": "80.49%",
+    "uptimeDay": "80.91%",
     "uptimeWeek": "94.81%",
     "uptimeMonth": "98.75%",
     "uptimeYear": "99.09%",
