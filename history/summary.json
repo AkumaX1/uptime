@@ -89,7 +89,7 @@
     "uptime": "71.55%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "65.29%",
+    "uptimeMonth": "65.30%",
     "uptimeYear": "71.55%",
     "time": 1167,
     "timeDay": 1176,
@@ -216,18 +216,18 @@
     "icon": "https://favicons.githubusercontent.com/anidex.info",
     "slug": "anidex",
     "status": "up",
-    "uptime": "96.32%",
-    "uptimeDay": "98.12%",
-    "uptimeWeek": "94.76%",
-    "uptimeMonth": "93.80%",
-    "uptimeYear": "96.32%",
+    "uptime": "96.31%",
+    "uptimeDay": "98.95%",
+    "uptimeWeek": "94.88%",
+    "uptimeMonth": "93.78%",
+    "uptimeYear": "96.31%",
     "time": 695,
-    "timeDay": 605,
-    "timeWeek": 551,
-    "timeMonth": 619,
+    "timeDay": 646,
+    "timeWeek": 554,
+    "timeMonth": 618,
     "timeYear": 695,
     "dailyMinutesDown": {
-      "2022-01-28": 27,
+      "2022-01-28": 15,
       "2022-01-26": 101,
       "2022-01-25": 16,
       "2022-01-24": 42,
@@ -247,7 +247,7 @@
       "2022-01-10": 194,
       "2022-01-09": 397,
       "2022-01-08": 209,
-      "2022-01-07": 153
+      "2022-01-07": 173
     }
   },
   {
@@ -314,12 +314,12 @@
     "url": "https://libgen.fun/",
     "icon": "https://favicons.githubusercontent.com/libgen.fun",
     "slug": "libgen",
-    "status": "up",
-    "uptime": "96.49%",
-    "uptimeDay": "91.73%",
+    "status": "down",
+    "uptime": "96.51%",
+    "uptimeDay": "91.71%",
     "uptimeWeek": "89.56%",
-    "uptimeMonth": "94.07%",
-    "uptimeYear": "96.49%",
+    "uptimeMonth": "94.12%",
+    "uptimeYear": "96.51%",
     "time": 342,
     "timeDay": 248,
     "timeWeek": 515,
@@ -346,7 +346,7 @@
       "2022-01-10": 75,
       "2022-01-09": 58,
       "2022-01-08": 79,
-      "2022-01-07": 111
+      "2022-01-07": 92
     }
   },
   {
