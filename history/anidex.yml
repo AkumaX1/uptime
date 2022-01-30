@@ -1,7 +1,7 @@
 url: https://anidex.info/
-status: up
-code: 200
-responseTime: 589
-lastUpdated: 2022-01-30T17:32:56.519Z
+status: down
+code: 500
+responseTime: 521
+lastUpdated: 2022-01-30T17:51:57.582Z
 startTime: Wed Dec 08 2021 13:55:45 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
