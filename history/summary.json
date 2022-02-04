@@ -89,7 +89,7 @@
     "uptime": "74.93%",
     "uptimeDay": "96.62%",
     "uptimeWeek": "99.52%",
-    "uptimeMonth": "88.15%",
+    "uptimeMonth": "88.19%",
     "uptimeYear": "74.93%",
     "time": 1175,
     "timeDay": 1160,
@@ -224,7 +224,7 @@
     "uptimeYear": "96.80%",
     "time": 676,
     "timeDay": 492,
-    "timeWeek": 516,
+    "timeWeek": 515,
     "timeMonth": 547,
     "timeYear": 676,
     "dailyMinutesDown": {
@@ -321,18 +321,18 @@
     "icon": "https://favicons.githubusercontent.com/libgen.fun",
     "slug": "libgen",
     "status": "up",
-    "uptime": "96.77%",
-    "uptimeDay": "89.99%",
-    "uptimeWeek": "89.22%",
-    "uptimeMonth": "93.81%",
-    "uptimeYear": "96.77%",
+    "uptime": "96.73%",
+    "uptimeDay": "90.39%",
+    "uptimeWeek": "89.28%",
+    "uptimeMonth": "93.73%",
+    "uptimeYear": "96.73%",
     "time": 394,
-    "timeDay": 280,
+    "timeDay": 285,
     "timeWeek": 624,
     "timeMonth": 463,
     "timeYear": 394,
     "dailyMinutesDown": {
-      "2022-02-04": 144,
+      "2022-02-04": 138,
       "2022-02-03": 297,
       "2022-02-02": 205,
       "2022-02-01": 104,
@@ -351,7 +351,7 @@
       "2022-01-18": 88,
       "2022-01-17": 149,
       "2022-01-16": 124,
-      "2022-01-15": 0
+      "2022-01-15": 41
     }
   },
   {
@@ -359,10 +359,10 @@
     "url": "https://knaben.info/",
     "icon": "https://favicons.githubusercontent.com/knaben.info",
     "slug": "knaben",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 715,
@@ -370,7 +370,9 @@
     "timeWeek": 427,
     "timeMonth": 933,
     "timeYear": 715,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-02-04": 1
+    }
   },
   {
     "name": "kaffeine",
@@ -402,9 +404,9 @@
     "uptimeMonth": "99.26%",
     "uptimeYear": "96.78%",
     "time": 3677,
-    "timeDay": 3331,
+    "timeDay": 3673,
     "timeWeek": 5363,
-    "timeMonth": 4110,
+    "timeMonth": 4144,
     "timeYear": 3677,
     "dailyMinutesDown": {
       "2022-02-02": 23,
