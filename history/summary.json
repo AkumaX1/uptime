@@ -89,7 +89,7 @@
     "uptime": "75.97%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.52%",
-    "uptimeMonth": "96.40%",
+    "uptimeMonth": "96.41%",
     "uptimeYear": "75.97%",
     "time": 1218,
     "timeDay": 2617,
@@ -216,19 +216,19 @@
     "url": "https://anidex.info/",
     "icon": "https://favicons.githubusercontent.com/anidex.info",
     "slug": "anidex",
-    "status": "up",
-    "uptime": "96.93%",
-    "uptimeDay": "97.58%",
-    "uptimeWeek": "93.75%",
-    "uptimeMonth": "93.86%",
-    "uptimeYear": "96.93%",
+    "status": "down",
+    "uptime": "96.96%",
+    "uptimeDay": "97.54%",
+    "uptimeWeek": "93.74%",
+    "uptimeMonth": "93.91%",
+    "uptimeYear": "96.96%",
     "time": 669,
-    "timeDay": 510,
+    "timeDay": 506,
     "timeWeek": 507,
     "timeMonth": 533,
     "timeYear": 669,
     "dailyMinutesDown": {
-      "2022-02-07": 19,
+      "2022-02-07": 20,
       "2022-02-06": 55,
       "2022-02-05": 130,
       "2022-02-04": 178,
@@ -255,7 +255,7 @@
       "2022-01-13": 153,
       "2022-01-12": 80,
       "2022-01-11": 89,
-      "2022-01-10": 131
+      "2022-01-10": 109
     }
   },
   {
@@ -323,18 +323,18 @@
     "icon": "https://favicons.githubusercontent.com/libgen.fun",
     "slug": "libgen",
     "status": "up",
-    "uptime": "97.03%",
-    "uptimeDay": "93.89%",
-    "uptimeWeek": "90.69%",
-    "uptimeMonth": "94.07%",
-    "uptimeYear": "97.03%",
+    "uptime": "97.01%",
+    "uptimeDay": "94.21%",
+    "uptimeWeek": "90.80%",
+    "uptimeMonth": "94.02%",
+    "uptimeYear": "97.01%",
     "time": 408,
     "timeDay": 272,
     "timeWeek": 751,
     "timeMonth": 496,
     "timeYear": 408,
     "dailyMinutesDown": {
-      "2022-02-07": 61,
+      "2022-02-07": 56,
       "2022-02-06": 28,
       "2022-02-04": 138,
       "2022-02-03": 297,
@@ -353,7 +353,7 @@
       "2022-01-21": 76,
       "2022-01-19": 150,
       "2022-01-18": 88,
-      "2022-01-17": 79
+      "2022-01-17": 103
     }
   },
   {
@@ -408,7 +408,7 @@
     "time": 3834,
     "timeDay": 4047,
     "timeWeek": 5656,
-    "timeMonth": 4530,
+    "timeMonth": 4550,
     "timeYear": 3834,
     "dailyMinutesDown": {
       "2022-02-07": 19,
