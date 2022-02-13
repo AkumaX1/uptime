@@ -216,18 +216,19 @@
     "url": "https://anidex.info/",
     "icon": "https://favicons.githubusercontent.com/anidex.info",
     "slug": "anidex",
-    "status": "up",
-    "uptime": "97.23%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "98.61%",
-    "uptimeMonth": "94.28%",
-    "uptimeYear": "97.23%",
+    "status": "down",
+    "uptime": "97.26%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "98.60%",
+    "uptimeMonth": "94.27%",
+    "uptimeYear": "97.26%",
     "time": 659,
-    "timeDay": 453,
-    "timeWeek": 519,
-    "timeMonth": 535,
+    "timeDay": 435,
+    "timeWeek": 517,
+    "timeMonth": 534,
     "timeYear": 659,
     "dailyMinutesDown": {
+      "2022-02-13": 1,
       "2022-02-09": 50,
       "2022-02-08": 32,
       "2022-02-07": 58,
@@ -256,7 +257,7 @@
       "2022-01-14": 60,
       "2022-01-13": 153,
       "2022-01-12": 80,
-      "2022-01-11": 89
+      "2022-01-11": 59
     }
   },
   {
@@ -324,18 +325,18 @@
     "icon": "https://favicons.githubusercontent.com/libgen.fun",
     "slug": "libgen",
     "status": "up",
-    "uptime": "97.32%",
-    "uptimeDay": "95.99%",
-    "uptimeWeek": "94.69%",
-    "uptimeMonth": "94.08%",
-    "uptimeYear": "97.32%",
+    "uptime": "97.30%",
+    "uptimeDay": "96.37%",
+    "uptimeWeek": "94.74%",
+    "uptimeMonth": "94.06%",
+    "uptimeYear": "97.30%",
     "time": 439,
     "timeDay": 261,
     "timeWeek": 610,
-    "timeMonth": 556,
+    "timeMonth": 557,
     "timeYear": 439,
     "dailyMinutesDown": {
-      "2022-02-13": 37,
+      "2022-02-13": 31,
       "2022-02-12": 58,
       "2022-02-11": 93,
       "2022-02-10": 90,
@@ -356,7 +357,7 @@
       "2022-01-25": 147,
       "2022-01-24": 76,
       "2022-01-23": 75,
-      "2022-01-22": 22
+      "2022-01-22": 39
     }
   },
   {
