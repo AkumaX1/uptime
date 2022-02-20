@@ -223,16 +223,16 @@
     "url": "https://anidex.info/",
     "icon": "https://favicons.githubusercontent.com/anidex.info",
     "slug": "anidex",
-    "status": "up",
-    "uptime": "97.57%",
-    "uptimeDay": "96.72%",
-    "uptimeWeek": "98.45%",
+    "status": "down",
+    "uptime": "97.59%",
+    "uptimeDay": "96.70%",
+    "uptimeWeek": "98.44%",
     "uptimeMonth": "95.92%",
-    "uptimeYear": "97.57%",
+    "uptimeYear": "97.59%",
     "time": 652,
-    "timeDay": 516,
-    "timeWeek": 524,
-    "timeMonth": 527,
+    "timeDay": 501,
+    "timeWeek": 520,
+    "timeMonth": 526,
     "timeYear": 652,
     "dailyMinutesDown": {
       "2022-02-20": 47,
@@ -268,7 +268,7 @@
       "2022-01-16": 117,
       "2022-01-15": 143,
       "2022-01-14": 60,
-      "2022-01-13": 58
+      "2022-01-13": 34
     }
   },
   {
