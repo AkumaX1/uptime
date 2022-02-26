@@ -224,15 +224,15 @@
     "url": "https://anidex.info/",
     "icon": "https://favicons.githubusercontent.com/anidex.info",
     "slug": "anidex",
-    "status": "up",
-    "uptime": "97.82%",
-    "uptimeDay": "96.25%",
-    "uptimeWeek": "97.44%",
-    "uptimeMonth": "96.83%",
-    "uptimeYear": "97.82%",
+    "status": "down",
+    "uptime": "97.84%",
+    "uptimeDay": "96.22%",
+    "uptimeWeek": "97.43%",
+    "uptimeMonth": "96.85%",
+    "uptimeYear": "97.84%",
     "time": 647,
-    "timeDay": 536,
-    "timeWeek": 526,
+    "timeDay": 517,
+    "timeWeek": 524,
     "timeMonth": 520,
     "timeYear": 647,
     "dailyMinutesDown": {
@@ -270,7 +270,7 @@
       "2022-01-19": 33,
       "2022-01-18": 165,
       "2022-01-17": 192,
-      "2022-01-16": 88
+      "2022-01-16": 65
     }
   },
   {
@@ -485,7 +485,7 @@
     "slug": "cock-li",
     "status": "up",
     "uptime": "96.64%",
-    "uptimeDay": "47.90%",
+    "uptimeDay": "48.77%",
     "uptimeWeek": "71.72%",
     "uptimeMonth": "92.43%",
     "uptimeYear": "96.64%",
