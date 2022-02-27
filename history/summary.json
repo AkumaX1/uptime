@@ -91,11 +91,11 @@
     "icon": "https://favicons.githubusercontent.com/thepiratebay.org",
     "slug": "thepiratebay-official",
     "status": "up",
-    "uptime": "81.86%",
+    "uptime": "81.87%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.30%",
-    "uptimeYear": "81.86%",
+    "uptimeYear": "81.87%",
     "time": 1338,
     "timeDay": 1060,
     "timeWeek": 1005,
@@ -226,17 +226,16 @@
     "slug": "anidex",
     "status": "up",
     "uptime": "97.86%",
-    "uptimeDay": "99.01%",
-    "uptimeWeek": "98.08%",
-    "uptimeMonth": "96.88%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "98.22%",
+    "uptimeMonth": "96.91%",
     "uptimeYear": "97.86%",
     "time": 646,
     "timeDay": 546,
-    "timeWeek": 549,
+    "timeWeek": 550,
     "timeMonth": 520,
     "timeYear": 646,
     "dailyMinutesDown": {
-      "2022-02-27": 14,
       "2022-02-26": 54,
       "2022-02-25": 34,
       "2022-02-23": 37,
@@ -271,7 +270,7 @@
       "2022-01-19": 33,
       "2022-01-18": 165,
       "2022-01-17": 192,
-      "2022-01-16": 49
+      "2022-01-16": 65
     }
   },
   {
@@ -340,12 +339,12 @@
     "url": "https://libgen.fun/",
     "icon": "https://favicons.githubusercontent.com/libgen.fun",
     "slug": "libgen",
-    "status": "up",
-    "uptime": "96.45%",
-    "uptimeDay": "98.52%",
+    "status": "down",
+    "uptime": "96.47%",
+    "uptimeDay": "98.50%",
     "uptimeWeek": "77.99%",
-    "uptimeMonth": "90.51%",
-    "uptimeYear": "96.45%",
+    "uptimeMonth": "90.55%",
+    "uptimeYear": "96.47%",
     "time": 420,
     "timeDay": 302,
     "timeWeek": 341,
@@ -377,7 +376,7 @@
       "2022-02-03": 297,
       "2022-02-02": 205,
       "2022-02-01": 104,
-      "2022-01-31": 96
+      "2022-01-31": 80
     }
   },
   {
