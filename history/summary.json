@@ -5,18 +5,18 @@
     "icon": "https://favicons.githubusercontent.com/prism-break.org",
     "slug": "prism-break-opt-out-of-global-data-surveillance",
     "status": "down",
-    "uptime": "99.53%",
-    "uptimeDay": "67.12%",
-    "uptimeWeek": "95.30%",
-    "uptimeMonth": "98.92%",
-    "uptimeYear": "99.53%",
+    "uptime": "99.52%",
+    "uptimeDay": "66.77%",
+    "uptimeWeek": "95.25%",
+    "uptimeMonth": "98.91%",
+    "uptimeYear": "99.52%",
     "time": 943,
     "timeDay": 327,
     "timeWeek": 408,
     "timeMonth": 1382,
     "timeYear": 943,
     "dailyMinutesDown": {
-      "2022-03-01": 474,
+      "2022-03-01": 478,
       "2022-01-23": 68,
       "2021-12-12": 17
     }
@@ -186,19 +186,19 @@
     "url": "https://nyaa.si/",
     "icon": "https://favicons.githubusercontent.com/nyaa.si",
     "slug": "nyaa",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.53%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "99.20%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "99.99%",
-    "time": 855,
-    "timeDay": 334,
-    "timeWeek": 535,
-    "timeMonth": 1371,
-    "timeYear": 855,
+    "time": 849,
+    "timeDay": 287,
+    "timeWeek": 502,
+    "timeMonth": 1332,
+    "timeYear": 849,
     "dailyMinutesDown": {
-      "2022-03-01": 7
+      "2022-03-01": 11
     }
   },
   {
@@ -228,18 +228,18 @@
     "icon": "https://favicons.githubusercontent.com/anidex.info",
     "slug": "anidex",
     "status": "up",
-    "uptime": "97.95%",
-    "uptimeDay": "95.24%",
-    "uptimeWeek": "98.09%",
-    "uptimeMonth": "97.34%",
-    "uptimeYear": "97.95%",
+    "uptime": "97.93%",
+    "uptimeDay": "95.61%",
+    "uptimeWeek": "98.14%",
+    "uptimeMonth": "97.35%",
+    "uptimeYear": "97.93%",
     "time": 647,
     "timeDay": 781,
     "timeWeek": 621,
     "timeMonth": 533,
     "timeYear": 647,
     "dailyMinutesDown": {
-      "2022-03-01": 24,
+      "2022-03-01": 19,
       "2022-02-28": 44,
       "2022-02-26": 54,
       "2022-02-25": 34,
@@ -274,7 +274,7 @@
       "2022-01-20": 46,
       "2022-01-19": 33,
       "2022-01-18": 165,
-      "2022-01-17": 124
+      "2022-01-17": 146
     }
   },
   {
@@ -309,18 +309,16 @@
     "slug": "gnarly-repacks",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.65%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 785,
     "timeDay": 4804,
     "timeWeek": 1753,
     "timeMonth": 1065,
     "timeYear": 785,
-    "dailyMinutesDown": {
-      "2022-03-01": 5
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Mobilism",
