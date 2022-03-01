@@ -5,18 +5,18 @@
     "icon": "https://favicons.githubusercontent.com/prism-break.org",
     "slug": "prism-break-opt-out-of-global-data-surveillance",
     "status": "down",
-    "uptime": "99.60%",
-    "uptimeDay": "72.77%",
-    "uptimeWeek": "96.11%",
-    "uptimeMonth": "99.10%",
-    "uptimeYear": "99.60%",
+    "uptime": "99.59%",
+    "uptimeDay": "71.97%",
+    "uptimeWeek": "96.00%",
+    "uptimeMonth": "99.08%",
+    "uptimeYear": "99.59%",
     "time": 943,
     "timeDay": 327,
     "timeWeek": 408,
     "timeMonth": 1382,
     "timeYear": 943,
     "dailyMinutesDown": {
-      "2022-03-01": 392,
+      "2022-03-01": 404,
       "2022-01-23": 68,
       "2021-12-12": 17
     }
@@ -341,12 +341,12 @@
     "url": "https://libgen.fun/",
     "icon": "https://favicons.githubusercontent.com/libgen.fun",
     "slug": "libgen",
-    "status": "up",
-    "uptime": "96.53%",
-    "uptimeDay": "93.38%",
+    "status": "down",
+    "uptime": "96.57%",
+    "uptimeDay": "93.35%",
     "uptimeWeek": "77.71%",
-    "uptimeMonth": "90.55%",
-    "uptimeYear": "96.53%",
+    "uptimeMonth": "90.67%",
+    "uptimeYear": "96.57%",
     "time": 417,
     "timeDay": 295,
     "timeWeek": 341,
@@ -379,7 +379,7 @@
       "2022-02-04": 138,
       "2022-02-03": 297,
       "2022-02-02": 205,
-      "2022-02-01": 86
+      "2022-02-01": 36
     }
   },
   {
