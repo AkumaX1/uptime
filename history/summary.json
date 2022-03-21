@@ -8,7 +8,7 @@
     "uptime": "79.91%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "32.50%",
+    "uptimeMonth": "32.49%",
     "uptimeYear": "79.91%",
     "time": 943,
     "timeDay": 0,
@@ -16,7 +16,7 @@
     "timeMonth": 402,
     "timeYear": 943,
     "dailyMinutesDown": {
-      "2022-03-21": 887,
+      "2022-03-21": 894,
       "2022-03-20": 1440,
       "2022-03-19": 1440,
       "2022-03-18": 1440,
@@ -194,8 +194,8 @@
     "status": "down",
     "uptime": "91.46%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "54.35%",
-    "uptimeMonth": "71.24%",
+    "uptimeWeek": "54.29%",
+    "uptimeMonth": "71.22%",
     "uptimeYear": "91.46%",
     "time": 2309,
     "timeDay": 64,
@@ -203,7 +203,7 @@
     "timeMonth": 3669,
     "timeYear": 2309,
     "dailyMinutesDown": {
-      "2022-03-21": 887,
+      "2022-03-21": 894,
       "2022-03-20": 1440,
       "2022-03-19": 1416,
       "2022-03-18": 858,
@@ -226,18 +226,16 @@
     "slug": "nyaa",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.67%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 867,
     "timeDay": 3799,
     "timeWeek": 1607,
     "timeMonth": 803,
     "timeYear": 867,
-    "dailyMinutesDown": {
-      "2022-03-21": 5
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Tokyotosho",
@@ -274,7 +272,7 @@
     "time": 641,
     "timeDay": 569,
     "timeWeek": 539,
-    "timeMonth": 566,
+    "timeMonth": 565,
     "timeYear": 641,
     "dailyMinutesDown": {
       "2022-03-20": 54,
@@ -391,19 +389,19 @@
     "url": "https://libgen.fun/",
     "icon": "https://favicons.githubusercontent.com/libgen.fun",
     "slug": "libgen",
-    "status": "up",
-    "uptime": "97.41%",
-    "uptimeDay": "84.01%",
-    "uptimeWeek": "79.57%",
-    "uptimeMonth": "91.22%",
-    "uptimeYear": "97.41%",
+    "status": "down",
+    "uptime": "97.42%",
+    "uptimeDay": "83.97%",
+    "uptimeWeek": "79.56%",
+    "uptimeMonth": "91.27%",
+    "uptimeYear": "97.42%",
     "time": 391,
     "timeDay": 412,
-    "timeWeek": 296,
+    "timeWeek": 298,
     "timeMonth": 310,
     "timeYear": 391,
     "dailyMinutesDown": {
-      "2022-03-21": 199,
+      "2022-03-21": 200,
       "2022-03-20": 142,
       "2022-03-19": 74,
       "2022-03-18": 233,
@@ -427,7 +425,7 @@
       "2022-02-28": 55,
       "2022-02-27": 21,
       "2022-02-26": 81,
-      "2022-02-25": 133
+      "2022-02-25": 114
     }
   },
   {
