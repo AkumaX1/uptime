@@ -1,7 +1,7 @@
 url: https://thepiratebay.org/
-status: down
-code: 502
-responseTime: 12572
-lastUpdated: 2022-03-26T11:57:36.106Z
+status: up
+code: 200
+responseTime: 1259
+lastUpdated: 2022-03-26T12:14:47.477Z
 startTime: Thu Dec 09 2021 02:37:11 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
