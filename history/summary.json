@@ -8,7 +8,7 @@
     "uptime": "72.65%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "26.27%",
+    "uptimeMonth": "26.34%",
     "uptimeYear": "72.65%",
     "time": 893,
     "timeDay": 323,
@@ -191,9 +191,9 @@
     "url": "https://proxygalaxy.pw/",
     "icon": "https://favicons.githubusercontent.com/proxygalaxy.pw",
     "slug": "proxygalaxy",
-    "status": "up",
+    "status": "down",
     "uptime": "99.44%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "96.56%",
     "uptimeMonth": "97.73%",
     "uptimeYear": "99.44%",
@@ -203,6 +203,7 @@
     "timeMonth": 791,
     "timeYear": 796,
     "dailyMinutesDown": {
+      "2022-04-12": 0,
       "2022-04-09": 193,
       "2022-04-07": 154,
       "2022-03-24": 649
@@ -217,7 +218,7 @@
     "uptime": "89.69%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "72.01%",
+    "uptimeMonth": "72.08%",
     "uptimeYear": "89.69%",
     "time": 2035,
     "timeDay": 419,
@@ -425,9 +426,9 @@
     "slug": "libgen",
     "status": "up",
     "uptime": "94.58%",
-    "uptimeDay": "96.34%",
-    "uptimeWeek": "46.55%",
-    "uptimeMonth": "77.73%",
+    "uptimeDay": "96.73%",
+    "uptimeWeek": "46.91%",
+    "uptimeMonth": "77.69%",
     "uptimeYear": "94.58%",
     "time": 379,
     "timeDay": 265,
@@ -435,7 +436,6 @@
     "timeMonth": 300,
     "timeYear": 379,
     "dailyMinutesDown": {
-      "2022-04-12": 6,
       "2022-04-11": 268,
       "2022-04-10": 66,
       "2022-04-09": 243,
@@ -464,7 +464,7 @@
       "2022-03-17": 70,
       "2022-03-16": 129,
       "2022-03-15": 1199,
-      "2022-03-14": 73
+      "2022-03-14": 95
     }
   },
   {
