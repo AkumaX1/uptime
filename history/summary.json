@@ -642,19 +642,19 @@
     "url": "https://riseup.net/en",
     "icon": "https://favicons.githubusercontent.com/riseup.net",
     "slug": "riseup",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.93%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.61%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 487,
-    "timeDay": 583,
-    "timeWeek": 529,
-    "timeMonth": 463,
-    "timeYear": 487,
+    "time": 561,
+    "timeDay": 6111,
+    "timeWeek": 1918,
+    "timeMonth": 823,
+    "timeYear": 561,
     "dailyMinutesDown": {
-      "2022-05-12": 1
+      "2022-05-12": 6
     }
   },
   {
