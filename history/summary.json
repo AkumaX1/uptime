@@ -448,19 +448,19 @@
     "url": "https://libgen.fun/",
     "icon": "https://favicons.githubusercontent.com/libgen.fun",
     "slug": "libgen",
-    "status": "up",
-    "uptime": "98.69%",
-    "uptimeDay": "84.30%",
-    "uptimeWeek": "89.31%",
+    "status": "down",
+    "uptime": "98.70%",
+    "uptimeDay": "84.26%",
+    "uptimeWeek": "89.30%",
     "uptimeMonth": "95.65%",
-    "uptimeYear": "98.69%",
+    "uptimeYear": "98.70%",
     "time": 378,
     "timeDay": 276,
     "timeWeek": 646,
     "timeMonth": 427,
     "timeYear": 378,
     "dailyMinutesDown": {
-      "2022-05-25": 37,
+      "2022-05-25": 38,
       "2022-05-24": 316,
       "2022-05-23": 167,
       "2022-05-22": 225,
@@ -488,7 +488,7 @@
       "2022-04-19": 94,
       "2022-04-18": 69,
       "2022-04-17": 190,
-      "2022-04-16": 61
+      "2022-04-16": 38
     }
   },
   {
@@ -541,7 +541,7 @@
     "slug": "invidious",
     "status": "up",
     "uptime": "95.24%",
-    "uptimeDay": "31.67%",
+    "uptimeDay": "32.71%",
     "uptimeWeek": "84.50%",
     "uptimeMonth": "94.36%",
     "uptimeYear": "95.24%",
@@ -632,7 +632,7 @@
     "uptimeYear": "97.61%",
     "time": 4085,
     "timeDay": 835,
-    "timeWeek": 3224,
+    "timeWeek": 3066,
     "timeMonth": 6115,
     "timeYear": 4085,
     "dailyMinutesDown": {
