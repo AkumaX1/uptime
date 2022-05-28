@@ -271,9 +271,9 @@
     "slug": "nyaa",
     "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "99.93%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.94%",
+    "uptimeDay": "99.52%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.93%",
     "uptimeYear": "99.98%",
     "time": 839,
     "timeDay": 463,
@@ -281,7 +281,7 @@
     "timeMonth": 1129,
     "timeYear": 839,
     "dailyMinutesDown": {
-      "2022-05-28": 1,
+      "2022-05-28": 7,
       "2022-05-17": 24,
       "2022-04-01": 16
     }
@@ -317,9 +317,9 @@
     "slug": "anidex",
     "status": "up",
     "uptime": "98.94%",
-    "uptimeDay": "99.55%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.91%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.92%",
     "uptimeYear": "98.94%",
     "time": 663,
     "timeDay": 5866,
@@ -327,7 +327,6 @@
     "timeMonth": 1811,
     "timeYear": 663,
     "dailyMinutesDown": {
-      "2022-05-28": 6,
       "2022-05-17": 33,
       "2022-04-18": 64,
       "2022-04-01": 15,
@@ -375,7 +374,7 @@
       "2022-01-25": 16,
       "2022-01-24": 42,
       "2022-01-23": 159,
-      "2022-01-22": 56
+      "2022-01-22": 73
     }
   },
   {
@@ -452,18 +451,19 @@
     "url": "https://libgen.fun/",
     "icon": "https://favicons.githubusercontent.com/libgen.fun",
     "slug": "libgen",
-    "status": "up",
-    "uptime": "98.68%",
-    "uptimeDay": "97.58%",
-    "uptimeWeek": "87.92%",
-    "uptimeMonth": "95.41%",
-    "uptimeYear": "98.68%",
+    "status": "down",
+    "uptime": "98.69%",
+    "uptimeDay": "97.54%",
+    "uptimeWeek": "87.91%",
+    "uptimeMonth": "95.40%",
+    "uptimeYear": "98.69%",
     "time": 377,
     "timeDay": 224,
     "timeWeek": 295,
     "timeMonth": 438,
     "timeYear": 377,
     "dailyMinutesDown": {
+      "2022-05-28": 1,
       "2022-05-27": 35,
       "2022-05-26": 257,
       "2022-05-25": 158,
@@ -491,7 +491,7 @@
       "2022-04-22": 80,
       "2022-04-21": 52,
       "2022-04-20": 258,
-      "2022-04-19": 74
+      "2022-04-19": 52
     }
   },
   {
