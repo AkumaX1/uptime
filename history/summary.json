@@ -127,9 +127,9 @@
     "url": "https://thepiratebay.org/",
     "icon": "https://favicons.githubusercontent.com/thepiratebay.org",
     "slug": "thepiratebay-official",
-    "status": "up",
+    "status": "down",
     "uptime": "89.22%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "90.68%",
     "uptimeYear": "89.22%",
@@ -139,6 +139,7 @@
     "timeMonth": 2437,
     "timeYear": 1520,
     "dailyMinutesDown": {
+      "2022-05-30": 0,
       "2022-05-21": 460,
       "2022-05-20": 1440,
       "2022-05-19": 186,
@@ -452,18 +453,18 @@
     "icon": "https://favicons.githubusercontent.com/libgen.fun",
     "slug": "libgen",
     "status": "up",
-    "uptime": "98.77%",
-    "uptimeDay": "88.38%",
-    "uptimeWeek": "89.38%",
-    "uptimeMonth": "95.54%",
-    "uptimeYear": "98.77%",
+    "uptime": "98.76%",
+    "uptimeDay": "89.14%",
+    "uptimeWeek": "89.49%",
+    "uptimeMonth": "95.56%",
+    "uptimeYear": "98.76%",
     "time": 383,
     "timeDay": 275,
     "timeWeek": 474,
     "timeMonth": 513,
     "timeYear": 383,
     "dailyMinutesDown": {
-      "2022-05-30": 104,
+      "2022-05-30": 93,
       "2022-05-29": 97,
       "2022-05-28": 71,
       "2022-05-27": 35,
@@ -490,7 +491,7 @@
       "2022-04-25": 43,
       "2022-04-24": 151,
       "2022-04-23": 276,
-      "2022-04-22": 30
+      "2022-04-22": 58
     }
   },
   {
