@@ -451,19 +451,19 @@
     "url": "https://libgen.fun/",
     "icon": "https://favicons.githubusercontent.com/libgen.fun",
     "slug": "libgen",
-    "status": "down",
-    "uptime": "98.83%",
-    "uptimeDay": "96.65%",
-    "uptimeWeek": "92.01%",
-    "uptimeMonth": "94.98%",
-    "uptimeYear": "98.83%",
+    "status": "up",
+    "uptime": "98.82%",
+    "uptimeDay": "95.71%",
+    "uptimeWeek": "91.87%",
+    "uptimeMonth": "94.95%",
+    "uptimeYear": "98.82%",
     "time": 383,
-    "timeDay": 419,
+    "timeDay": 422,
     "timeWeek": 478,
-    "timeMonth": 499,
+    "timeMonth": 500,
     "timeYear": 383,
     "dailyMinutesDown": {
-      "2022-06-01": 49,
+      "2022-06-01": 62,
       "2022-05-31": 143,
       "2022-05-30": 156,
       "2022-05-29": 97,
@@ -507,7 +507,7 @@
     "time": 546,
     "timeDay": 546,
     "timeWeek": 466,
-    "timeMonth": 473,
+    "timeMonth": 474,
     "timeYear": 546,
     "dailyMinutesDown": {
       "2022-05-08": 16,
@@ -530,7 +530,7 @@
     "time": 299,
     "timeDay": 82,
     "timeWeek": 128,
-    "timeMonth": 208,
+    "timeMonth": 206,
     "timeYear": 299,
     "dailyMinutesDown": {
       "2022-02-24": 49
@@ -549,8 +549,8 @@
     "uptimeYear": "95.35%",
     "time": 4074,
     "timeDay": 5557,
-    "timeWeek": 5781,
-    "timeMonth": 4574,
+    "timeWeek": 5913,
+    "timeMonth": 4605,
     "timeYear": 4074,
     "dailyMinutesDown": {
       "2022-06-01": 142,
@@ -639,7 +639,7 @@
     "time": 3997,
     "timeDay": 924,
     "timeWeek": 967,
-    "timeMonth": 6153,
+    "timeMonth": 6197,
     "timeYear": 3997,
     "dailyMinutesDown": {
       "2022-05-19": 36,
@@ -677,7 +677,7 @@
     "time": 564,
     "timeDay": 541,
     "timeWeek": 690,
-    "timeMonth": 907,
+    "timeMonth": 924,
     "timeYear": 564,
     "dailyMinutesDown": {}
   },
@@ -695,7 +695,7 @@
     "time": 1285,
     "timeDay": 869,
     "timeWeek": 920,
-    "timeMonth": 1055,
+    "timeMonth": 1058,
     "timeYear": 1285,
     "dailyMinutesDown": {
       "2022-04-07": 375,
@@ -719,7 +719,7 @@
     "time": 898,
     "timeDay": 629,
     "timeWeek": 727,
-    "timeMonth": 838,
+    "timeMonth": 837,
     "timeYear": 898,
     "dailyMinutesDown": {}
   }
