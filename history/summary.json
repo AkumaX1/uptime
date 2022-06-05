@@ -451,19 +451,19 @@
     "url": "https://libgen.fun/",
     "icon": "https://favicons.githubusercontent.com/libgen.fun",
     "slug": "libgen",
-    "status": "up",
-    "uptime": "98.77%",
-    "uptimeDay": "94.26%",
-    "uptimeWeek": "90.14%",
+    "status": "down",
+    "uptime": "98.78%",
+    "uptimeDay": "94.22%",
+    "uptimeWeek": "90.13%",
     "uptimeMonth": "93.69%",
-    "uptimeYear": "98.77%",
+    "uptimeYear": "98.78%",
     "time": 380,
     "timeDay": 245,
-    "timeWeek": 284,
+    "timeWeek": 283,
     "timeMonth": 462,
     "timeYear": 380,
     "dailyMinutesDown": {
-      "2022-06-05": 83,
+      "2022-06-05": 84,
       "2022-06-04": 269,
       "2022-06-03": 96,
       "2022-06-02": 200,
@@ -490,7 +490,7 @@
       "2022-05-02": 20,
       "2022-04-30": 119,
       "2022-04-29": 146,
-      "2022-04-28": 61
+      "2022-04-28": 39
     }
   },
   {
@@ -672,18 +672,16 @@
     "slug": "riseup",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.50%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 575,
     "timeDay": 876,
     "timeWeek": 884,
     "timeMonth": 967,
     "timeYear": 575,
-    "dailyMinutesDown": {
-      "2022-06-05": 7
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Disroot",
