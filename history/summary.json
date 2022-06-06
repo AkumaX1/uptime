@@ -452,12 +452,12 @@
     "url": "https://libgen.fun/",
     "icon": "https://favicons.githubusercontent.com/libgen.fun",
     "slug": "libgen",
-    "status": "up",
-    "uptime": "98.79%",
-    "uptimeDay": "89.62%",
+    "status": "down",
+    "uptime": "98.80%",
+    "uptimeDay": "89.59%",
     "uptimeWeek": "90.05%",
-    "uptimeMonth": "93.32%",
-    "uptimeYear": "98.79%",
+    "uptimeMonth": "93.31%",
+    "uptimeYear": "98.80%",
     "time": 379,
     "timeDay": 263,
     "timeWeek": 290,
@@ -490,8 +490,7 @@
       "2022-05-08": 19,
       "2022-05-04": 63,
       "2022-05-02": 20,
-      "2022-04-30": 119,
-      "2022-04-29": 17
+      "2022-04-30": 119
     }
   },
   {
