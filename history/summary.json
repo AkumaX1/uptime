@@ -456,18 +456,18 @@
     "icon": "https://favicons.githubusercontent.com/libgen.fun",
     "slug": "libgen",
     "status": "up",
-    "uptime": "98.93%",
-    "uptimeDay": "86.64%",
-    "uptimeWeek": "90.75%",
-    "uptimeMonth": "93.30%",
-    "uptimeYear": "98.93%",
+    "uptime": "98.92%",
+    "uptimeDay": "87.02%",
+    "uptimeWeek": "90.80%",
+    "uptimeMonth": "93.22%",
+    "uptimeYear": "98.92%",
     "time": 379,
     "timeDay": 585,
     "timeWeek": 378,
     "timeMonth": 436,
     "timeYear": 379,
     "dailyMinutesDown": {
-      "2022-06-17": 108,
+      "2022-06-17": 103,
       "2022-06-16": 239,
       "2022-06-15": 130,
       "2022-06-14": 195,
@@ -489,7 +489,7 @@
       "2022-05-28": 71,
       "2022-05-27": 35,
       "2022-05-26": 257,
-      "2022-05-25": 18
+      "2022-05-25": 56
     }
   },
   {
@@ -543,18 +543,19 @@
     "url": "https://invidious.kavin.rocks/",
     "icon": "https://favicons.githubusercontent.com/invidious.kavin.rocks",
     "slug": "invidious",
-    "status": "up",
+    "status": "down",
     "uptime": "93.17%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "31.35%",
+    "uptimeDay": "99.90%",
+    "uptimeWeek": "31.49%",
     "uptimeMonth": "79.65%",
     "uptimeYear": "93.17%",
     "time": 4096,
     "timeDay": 2546,
-    "timeWeek": 1480,
+    "timeWeek": 1506,
     "timeMonth": 4579,
     "timeYear": 4096,
     "dailyMinutesDown": {
+      "2022-06-17": 1,
       "2022-06-15": 993,
       "2022-06-14": 1440,
       "2022-06-13": 1440,
@@ -633,7 +634,7 @@
       "2021-12-16": 41,
       "2021-12-15": 18,
       "2021-12-14": 30,
-      "2021-12-13": 44
+      "2021-12-13": 28
     }
   },
   {
