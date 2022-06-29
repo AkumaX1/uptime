@@ -466,11 +466,11 @@
     "url": "https://libgen.fun/",
     "icon": "https://favicons.githubusercontent.com/libgen.fun",
     "slug": "libgen",
-    "status": "up",
+    "status": "down",
     "uptime": "99.02%",
-    "uptimeDay": "87.68%",
+    "uptimeDay": "87.64%",
     "uptimeWeek": "88.06%",
-    "uptimeMonth": "93.43%",
+    "uptimeMonth": "93.48%",
     "uptimeYear": "99.02%",
     "time": 378,
     "timeDay": 234,
@@ -478,7 +478,7 @@
     "timeMonth": 347,
     "timeYear": 378,
     "dailyMinutesDown": {
-      "2022-06-29": 162,
+      "2022-06-29": 163,
       "2022-06-28": 157,
       "2022-06-27": 238,
       "2022-06-26": 91,
@@ -495,7 +495,7 @@
       "2022-06-15": 130,
       "2022-06-14": 195,
       "2022-06-13": 164,
-      "2022-06-12": 36
+      "2022-06-12": 16
     }
   },
   {
@@ -710,11 +710,11 @@
     "icon": "https://favicons.githubusercontent.com/disroot.org",
     "slug": "disroot",
     "status": "up",
-    "uptime": "99.59%",
+    "uptime": "99.60%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.59%",
+    "uptimeYear": "99.60%",
     "time": 1261,
     "timeDay": 874,
     "timeWeek": 1092,
