@@ -116,7 +116,7 @@
     "slug": "1337x-official-domain-3",
     "status": "up",
     "uptime": "99.62%",
-    "uptimeDay": "96.99%",
+    "uptimeDay": "97.79%",
     "uptimeWeek": "95.68%",
     "uptimeMonth": "97.51%",
     "uptimeYear": "99.62%",
@@ -713,19 +713,19 @@
     "url": "https://riseup.net/en",
     "icon": "https://favicons.githubusercontent.com/riseup.net",
     "slug": "riseup",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.91%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.20%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
-    "time": 601,
-    "timeDay": 4114,
-    "timeWeek": 1392,
-    "timeMonth": 768,
-    "timeYear": 601,
+    "time": 600,
+    "timeDay": 2892,
+    "timeWeek": 1287,
+    "timeMonth": 758,
+    "timeYear": 600,
     "dailyMinutesDown": {
-      "2022-07-04": 1
+      "2022-07-04": 12
     }
   },
   {
