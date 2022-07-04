@@ -1,7 +1,7 @@
 url: https://riseup.net/en
-status: up
-code: 200
-responseTime: 749
-lastUpdated: 2022-07-04T23:11:55.257Z
+status: down
+code: 502
+responseTime: 7576
+lastUpdated: 2022-07-04T23:36:51.574Z
 startTime: Thu Dec 09 2021 02:37:32 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
