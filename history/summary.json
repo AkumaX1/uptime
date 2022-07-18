@@ -347,9 +347,9 @@
     "slug": "anidex",
     "status": "up",
     "uptime": "99.16%",
-    "uptimeDay": "99.61%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.16%",
     "time": 672,
     "timeDay": 814,
@@ -357,7 +357,6 @@
     "timeMonth": 993,
     "timeYear": 672,
     "dailyMinutesDown": {
-      "2022-07-18": 6,
       "2022-05-28": 110,
       "2022-05-17": 33,
       "2022-04-18": 64,
@@ -406,7 +405,7 @@
       "2022-01-25": 16,
       "2022-01-24": 42,
       "2022-01-23": 159,
-      "2022-01-22": 18
+      "2022-01-22": 36
     }
   },
   {
@@ -576,19 +575,19 @@
     "url": "https://invidious.kavin.rocks/",
     "icon": "https://favicons.githubusercontent.com/invidious.kavin.rocks",
     "slug": "invidious",
-    "status": "up",
-    "uptime": "91.98%",
-    "uptimeDay": "4.01%",
-    "uptimeWeek": "31.88%",
+    "status": "down",
+    "uptime": "91.99%",
+    "uptimeDay": "4.35%",
+    "uptimeWeek": "31.87%",
     "uptimeMonth": "83.48%",
-    "uptimeYear": "91.98%",
-    "time": 4003,
-    "timeDay": 1542,
-    "timeWeek": 1503,
-    "timeMonth": 3113,
-    "timeYear": 4003,
+    "uptimeYear": "91.99%",
+    "time": 4000,
+    "timeDay": 1498,
+    "timeWeek": 1487,
+    "timeMonth": 3091,
+    "timeYear": 4000,
     "dailyMinutesDown": {
-      "2022-07-18": 1131,
+      "2022-07-18": 1132,
       "2022-07-17": 1440,
       "2022-07-16": 826,
       "2022-07-15": 834,
@@ -670,8 +669,7 @@
       "2022-01-03": 1189,
       "2022-01-02": 678,
       "2021-12-28": 42,
-      "2021-12-27": 29,
-      "2021-12-24": 16
+      "2021-12-27": 29
     }
   },
   {
